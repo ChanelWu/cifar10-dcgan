@@ -1,0 +1,7 @@
+# Dependencies listed in the original script; only its explicit version is pinned.
+torch
+torchvision
+numpy
+matplotlib
+pillow
+torch-fidelity==0.4.0

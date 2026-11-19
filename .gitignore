@@ -1,0 +1,24 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+# Credentials and local editor/OS files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.vscode/
+.idea/
+.DS_Store
+# Downloaded datasets, caches, weights, and generated run outputs
+data/
+.cache/
+.matplotlib/
+*.pth
+*.pt
+outputs/
